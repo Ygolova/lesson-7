@@ -1,1 +1,2 @@
-# lesson-7 https://github.com/Ygolova/lesson-7 pages
+# lesson-7 
+https://ygolova.github.io/lesson-7/     pages
